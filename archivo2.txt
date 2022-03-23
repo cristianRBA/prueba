@@ -1,1 +1,2 @@
-yo soy el archivo 22
+yo soy el archivo 2
+modificandoi archivo 2 
